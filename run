@@ -1,2 +1,2 @@
 #!/bin/sh
-python3 parser.py | clisp submission.lisp
+python3 parser.py | clisp solver.lisp
